@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ResConvert")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Stunts 2 Amiga")]
+[assembly: AssemblyDescription("Converts files from Stunts for DOS to 4D Sports Driving for Amiga")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ResConvert")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyProduct("Stunts 2 Amiga")]
+[assembly: AssemblyCopyright("Copyright © Erik Hogan 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1a55d867-69f1-4a06-9917-1cc15a90932f")]
+[assembly: Guid("b3c9e667-ac25-4ef4-a531-71554fc96446")]
 
 // Version information for an assembly consists of the following four values:
 //
