@@ -1,0 +1,2 @@
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\win-x64\publish\Stunts_DOS2Amiga.pdb
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\win-x64\publish\Stunts_DOS2Amiga.exe

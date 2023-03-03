@@ -1,0 +1,15 @@
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\Stunts_DOS2Amiga.exe
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\Stunts_DOS2Amiga.deps.json
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\Stunts_DOS2Amiga.runtimeconfig.json
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\Stunts_DOS2Amiga.dll
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\bin\Release\net7.0\Stunts_DOS2Amiga.pdb
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.csproj.AssemblyReference.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.AssemblyInfoInputs.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.AssemblyInfo.cs
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.csproj.CoreCompileInputs.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.dll
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\refint\Stunts_DOS2Amiga.dll
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.pdb
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\Stunts_DOS2Amiga.genruntimeconfig.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Stunts_DOS2Amiga\obj\Release\net7.0\ref\Stunts_DOS2Amiga.dll

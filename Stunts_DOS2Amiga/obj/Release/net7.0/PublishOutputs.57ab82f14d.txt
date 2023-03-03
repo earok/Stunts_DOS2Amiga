@@ -1,0 +1,5 @@
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Bin\Stunts_DOS2Amiga.exe
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Bin\Stunts_DOS2Amiga.dll
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Bin\Stunts_DOS2Amiga.deps.json
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Bin\Stunts_DOS2Amiga.runtimeconfig.json
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\Bin\Stunts_DOS2Amiga.pdb
