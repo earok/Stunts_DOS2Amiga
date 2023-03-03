@@ -2,8 +2,8 @@
 Tools created in an attempt to port custom cars from Stunts 1.1 on DOS to 4D Sports Driving 1.2 on Amiga
 
 - Source is available in .NET7
-- Use at your own risk! Make a backup of your 4D Sports Driving install.
-- There are a LOT of custom cars available for Stunts for DOS, we can *partly* convert to Amiga.
+- Use at your own risk and provided with no warranty! Make a backup of your 4D Sports Driving install.
+- There are a LOT of custom cars available for Stunts for DOS, we can *partly* convert to Amiga. [Mark Ceccato's page](https://www.markceccato.com/) has a lot of them.
 - Download Stunts_2_Amiga.exe into your Stunts folder ("data" if using WHDLoad). May need to have .NET framework installed to run the executable.
 - Download custom cars into the same folder.
 - Run Stunts_2_Amiga.exe to convert all of the custom cars.
