@@ -1,0 +1,11 @@
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Release\ResConvert.exe.config
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Release\ResConvert.exe.manifest
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Release\ResConvert.application
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Release\ResConvert.exe
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Release\ResConvert.pdb
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Release\ResConvert.csproj.AssemblyReference.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Release\ResConvert.csproj.CoreCompileInputs.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Release\ResConvert.exe.manifest
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Release\ResConvert.application
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Release\ResConvert.exe
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Release\ResConvert.pdb

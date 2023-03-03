@@ -1,0 +1,22 @@
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.exe.config
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.exe
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.pdb
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.csproj.AssemblyReference.cache
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.csproj.CoreCompileInputs.cache
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.exe
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.pdb
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.exe.manifest
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.application
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.exe.manifest
+C:\Users\earok\Desktop\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.application
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.exe.config
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.exe.manifest
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.application
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.exe
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\bin\Debug\ResConvert.pdb
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.csproj.AssemblyReference.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.csproj.CoreCompileInputs.cache
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.exe.manifest
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.application
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.exe
+C:\Users\earok\Desktop\Stunts project\Stunts_DOS2Amiga\ResConvert\obj\Debug\ResConvert.pdb
